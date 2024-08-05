@@ -1,3 +1,4 @@
+# VERSÃO DE TESTES
 # COMPARADOR DE EMAILS
 #### CONTÉM TRÊS FUNÇÕES NO ARQUIVO script.js:
 * buscar_Dados(); Requisita os dados de usuários
